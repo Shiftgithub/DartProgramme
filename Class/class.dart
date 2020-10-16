@@ -1,5 +1,5 @@
 class cls {
-  var a = 55;
+  var a = "asdasdasd";
   var b = 3;
 }
 
