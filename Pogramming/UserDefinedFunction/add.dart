@@ -2,7 +2,7 @@ void main(){
   var a = 26;
   var b = 5;
 
-  var result = div(a,b);
+  var result = add(a,b);
 
   print(result);
 }
