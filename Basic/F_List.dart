@@ -6,9 +6,9 @@ void main() {
   }
 
   print("Write your input: ");
-  var num = int.parse(cin());
+  var num = int.parse(cin()!);
 
-  var array = new List(num);
+  var array = [];
 
   for (var loop = 0; loop < num; loop++) {
     print("Write input- ${loop}");
